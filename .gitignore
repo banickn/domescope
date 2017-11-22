@@ -42,4 +42,4 @@
 *.ipdb
 *.idb
 *.ilk
-*.suo
+.vs/
