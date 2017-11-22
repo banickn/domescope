@@ -33,7 +33,7 @@
 *.db
 *.opendb
 
-# VS build files
+# VS build & user files
 *.lastbuildstate
 *.tlog
 *.log
@@ -42,3 +42,4 @@
 *.ipdb
 *.idb
 *.ilk
+*.suo
