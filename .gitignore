@@ -30,16 +30,15 @@
 *.exe
 *.out
 *.app
-/BoringTest/BoringTest/Debug/BoringTest.tlog
-/BoringTest/BoringTest/Debug
-/BoringTest/Debug
 *.db
 *.opendb
-/BoringTest/BoringTest/x64/Debug
-/BoringTest/x64/Debug
+
+# VS build files
 *.lastbuildstate
 *.tlog
 *.log
 *.pdb
 *.iobj
 *.ipdb
+*.idb
+*.ilk
