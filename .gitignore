@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+*.db
+*.opendb
+
+# VS build & user files
+*.lastbuildstate
+*.tlog
+*.log
+*.pdb
+*.iobj
+*.ipdb
+*.idb
+*.ilk
+.vs/
