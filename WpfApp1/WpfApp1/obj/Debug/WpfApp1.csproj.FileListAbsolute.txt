@@ -1,0 +1,16 @@
+F:\GitHub\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\GitHub\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\GitHub\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\GitHub\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+F:\GitHub\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\GitHub\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\GitHub\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\GitHub\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\GitHub\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\GitHub\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\GitHub\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\GitHub\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+F:\GitHub\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\GitHub\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\GitHub\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\GitHub\WpfApp1\WpfApp1\bin\Debug\MjpegProcessor.dll

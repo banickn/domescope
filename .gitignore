@@ -43,3 +43,7 @@
 *.idb
 *.ilk
 .vs/
+
+*.Cache
+
+BoringProject2017/BoringProject2017/obj/Debug/
